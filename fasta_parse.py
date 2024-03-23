@@ -6,6 +6,7 @@ import operator as op
 
 # Exercise 2
 
+
 def proteinInfo(protein_list):
     """
     # A function that takes as input a list of protein fasta files and produces a protein_info.csv file with the following columns:
